@@ -22,7 +22,7 @@ env:
   PUBLIC_SH: public.sh                 # 公共执行文件
   UPLOAD_PACKAGES_DIR: true                 # 是否导出bin文件
   UPLOAD_FIRMWARE: true                # 是否导出固件
-  CLONE_URL: https://github.com/coolsnowwolf/lede  # 地址
+  CLONE_URL: https://github.com/1056917561/lede  # 地址
   CLONE_BRANCH: master                 # 分支
   WORK_PATH: opt/openwrt               # 工作目录
 
