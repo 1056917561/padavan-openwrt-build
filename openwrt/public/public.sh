@@ -2,7 +2,7 @@
 # 必须的文件
 # device_name='G-DOCK'      # 设备名，放到了单独设备的sh文件中了
 # wifi_name="OpenWrt"       # Wifi 名字 ,放到了单独设备的sh文件中了
-lan_ip='192.168.2.1'        # Lan Ip地址
+lan_ip='192.168.123.1'        # Lan Ip地址
 utc_name='Asia\/Shanghai'   # 时区
 delete_bootstrap=true       # 是否删除默认主题 true 、false
 default_theme='argon_mc1'   # 默认主题 结合主题文件夹名字
